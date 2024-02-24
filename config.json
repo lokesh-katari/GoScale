@@ -1,0 +1,21 @@
+{
+  
+    "servers": [
+      {
+        "url": "http://172.30.87.41:8081",
+        "weight": 2
+      },
+      {
+        "url": "http://172.30.87.41:8082",
+        "weight": 2
+      },
+      {
+        "url": "http://172.30.87.41:8083",
+        "weight": 2
+      }
+    ],
+    "algorithm": "WeightedRoundRobin",
+    "proxy": "http://localhost:8080"
+
+  }
+  
