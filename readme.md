@@ -24,7 +24,7 @@ To install GoScale , you need to have Go installed. Then, you can clone the repo
 
 ```bash
 git clone https://github.com/lokesh-katari/GoScale
-cd loadpulse
+cd GoScale
 go build -o goscale cmd/main.go
 ```
 
