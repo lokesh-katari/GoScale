@@ -70,5 +70,7 @@ GoScale is configured via a config.json file. You can specify the backend server
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 # License
-
 This project is licensed under the MIT License - see the LICENSE file for details.
+#DEMO
+
+https://github.com/lokesh-katari/GoScale/assets/111894942/8b8438ab-b878-4c45-9a84-7d1adbb6f3ce
